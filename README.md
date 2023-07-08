@@ -13,7 +13,7 @@ The S&P 500 Index, or Standard & Poor’s 500 Index, is a market-capitalization-
 However, we are not interested in the price values themselves. From the price data we can extract the daily returns.
 
 ## Model and results
-The full analysis is contained in the [report](https://github.com/Fedeshadow/Jags-estimate).
+The full analysis is contained in the [report](https://github.com/Fedeshadow/Jags-estimate/blob/main/Presentation.pdf).
 
 The key takeaway is that, as expected, the GARCH models performs better on the data.
 After some diagnostics on the simulation, predicting the variance thorugh the estimated parameters leads to really convincing forecasts as shown below:
