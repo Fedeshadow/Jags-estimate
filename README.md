@@ -16,6 +16,6 @@ However, we are not interested in the price values themselves. From the price da
 The full analysis is contained in the [report](https://github.com/Fedeshadow/Jags-estimate/blob/main/Presentation.pdf).
 
 The key takeaway is that, as expected, the GARCH models performs better on the data.
-After some diagnostics on the simulation, predicting the variance thorugh the estimated parameters leads to really convincing forecasts as shown below:
+After some diagnostics on the simulation, predicting the variance thorugh the estimated parameters leads to really convincing forecasts as shown below:\
 ![var1](https://github.com/Fedeshadow/Jags-estimate/assets/85882770/eb55734c-d6b3-4cea-94e4-ef9e630e0cec)
 ![Rplot01](https://github.com/Fedeshadow/Jags-estimate/assets/85882770/04a62d02-8673-475b-9ee8-429a60bc89ff)
